@@ -1,0 +1,844 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4]:
+      - link "读书屋" [ref=e5] [cursor=pointer]:
+        - /url: /?m=2
+        - img "读书屋" [ref=e6]
+      - textbox "书名、作者、关键字" [ref=e9]
+      - generic [ref=e12]:
+        - link "我的书架" [ref=e13] [cursor=pointer]:
+          - /url: /user/favorites.html
+        - generic [ref=e14]:
+          - generic [ref=e15]: "|"
+          - link "13687300222" [ref=e16] [cursor=pointer]:
+            - /url: /user/userinfo.html
+          - link "退出" [ref=e17] [cursor=pointer]:
+            - /url: javascript:logout()
+    - generic [ref=e19]:
+      - list:
+        - listitem [ref=e20]:
+          - link "首页" [ref=e21] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=e22]:
+          - link "全部作品" [ref=e23] [cursor=pointer]:
+            - /url: /book/bookclass.html
+        - listitem [ref=e24]:
+          - link "排行榜" [ref=e25] [cursor=pointer]:
+            - /url: /book/book_ranking.html
+        - listitem [ref=e26]:
+          - link "充值" [ref=e27] [cursor=pointer]:
+            - /url: /pay/index.html
+        - listitem [ref=e28]:
+          - link "作家专区" [ref=e29] [cursor=pointer]:
+            - /url: /author/index.html
+  - generic [ref=e30]:
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - generic [ref=e33]:
+          - definition [ref=e35]:
+            - link "史上最强大皇子" [ref=e36] [cursor=pointer]:
+              - /url: /book/179.html
+              - img "史上最强大皇子" [ref=e37]
+          - list [ref=e39]:
+            - listitem [ref=e40]:
+              - img "果蔬青恋" [ref=e41] [cursor=pointer]
+            - listitem [ref=e42]:
+              - img "史上最强大皇子" [ref=e43] [cursor=pointer]
+            - listitem [ref=e44]:
+              - img "我能看见功法契合度" [ref=e45] [cursor=pointer]
+            - listitem [ref=e46]:
+              - img "他从暗夜里来" [ref=e47] [cursor=pointer]
+        - generic [ref=e48]:
+          - generic [ref=e49]:
+            - term [ref=e50]:
+              - link "爱是大雾散尽时" [ref=e51] [cursor=pointer]:
+                - /url: /book/199.html
+            - definition [ref=e52]:
+              - link "成吉思汗的动物军团" [ref=e53] [cursor=pointer]:
+                - /url: /book/261.html
+              - link "成吉思汗的动物军团" [ref=e54] [cursor=pointer]:
+                - /url: /book/261.html
+            - definition [ref=e55]:
+              - link "大王的病不治也罢" [ref=e56] [cursor=pointer]:
+                - /url: /book/233.html
+              - link "领袖兰宫" [ref=e57] [cursor=pointer]:
+                - /url: /book/219.html
+          - generic [ref=e58]:
+            - term [ref=e59]:
+              - link "重生学霸小甜妻" [ref=e60] [cursor=pointer]:
+                - /url: /book/152.html
+            - definition [ref=e61]:
+              - link "神医毒妃帅炸了" [ref=e62] [cursor=pointer]:
+                - /url: /book/171.html
+              - link "团宠七宝有神通" [ref=e63] [cursor=pointer]:
+                - /url: /book/202.html
+          - generic [ref=e64]:
+            - definition [ref=e65]:
+              - text: "[体育]"
+              - link "测试公告" [ref=e66] [cursor=pointer]:
+                - /url: /about/newsInfo-142.html
+            - definition [ref=e67]:
+              - text: "[体育]"
+              - link "663" [ref=e68] [cursor=pointer]:
+                - /url: /about/newsInfo-141.html
+      - generic [ref=e69]:
+        - heading "本周强推" [level=3] [ref=e71]
+        - list [ref=e73]:
+          - listitem [ref=e74]:
+            - generic [ref=e75]:
+              - generic [ref=e76]: "1"
+              - link "农门凰女" [ref=e77] [cursor=pointer]:
+                - /url: /book/129.html
+            - generic [ref=e78]:
+              - link "农门凰女" [ref=e80] [cursor=pointer]:
+                - /url: /book/129.html
+                - img "农门凰女" [ref=e81]
+              - link "悲摧穿越成婴儿，好不容易长大了，还没人说亲？现成的竹马夫君等在这里！ “凰儿，你是我们叶家童养媳，你大哥、二哥没娶你，堂哥娶你！”叶子皓背着叶青凰满心欢喜， “以后只疼你！”他是村里最年轻的秀才，背负不孝之名娶她进门，疼她、宠她、教她做一个无所畏惧的悍妻，对付纠缠不清的极品亲戚。 “媳妇，臭小子想要妹妹，咱多生几个给他带。”叶子皓发扬宠妻就要多生包子的精神，夜夜撩妻宠不停。 最新章节推荐地址：https://m.shuquge.com/s/144224.html" [ref=e82] [cursor=pointer]:
+                - /url: /book/129.html
+          - listitem [ref=e83]:
+            - generic [ref=e84]:
+              - generic [ref=e85]: "2"
+              - link "欧克暴君" [ref=e86] [cursor=pointer]:
+                - /url: /book/131.html
+          - listitem [ref=e87]:
+            - generic [ref=e88]:
+              - generic [ref=e89]: "3"
+              - link "棒球之魂" [ref=e90] [cursor=pointer]:
+                - /url: /book/148.html
+          - listitem [ref=e91]:
+            - generic [ref=e92]:
+              - generic [ref=e93]: "4"
+              - link "农家之富贵贤妻" [ref=e94] [cursor=pointer]:
+                - /url: /book/167.html
+          - listitem [ref=e95]:
+            - generic [ref=e96]:
+              - generic [ref=e97]: "5"
+              - link "宫之海" [ref=e98] [cursor=pointer]:
+                - /url: /book/132.html
+    - generic [ref=e99]:
+      - generic [ref=e100]:
+        - heading "热门推荐" [level=2] [ref=e102]
+        - generic [ref=e103]:
+          - generic [ref=e104]:
+            - link "云上夕轮" [ref=e105] [cursor=pointer]:
+              - /url: /book/134.html
+              - img "云上夕轮" [ref=e106]
+            - generic [ref=e107]:
+              - heading "云上夕轮" [level=4] [ref=e108]:
+                - link "云上夕轮" [ref=e109] [cursor=pointer]:
+                  - /url: /book/134.html
+              - paragraph [ref=e110]:
+                - link "作者：作者：纸墨云烟" [ref=e111]:
+                  - /url: javascript:void(0)
+              - paragraph [ref=e112]:
+                - link "【朱砂痣】三部系列：系列一 “月”《云上夕轮》。【放荡不羁少主×神秘莫测孤女】她，家族蒙冤千年，受尽冷眼，依然保持本心。 本以为世间冷暖再与她无关，直到遇见他。他，玩世不恭的少主，不受千条家规束缚，只想快意江湖。 本以为不会儿女情长，奈何树下遇见她。她，六界医界圣手的唯一徒弟，悬壶济世，医行天下。 本以为此生会嫁于温润男子，却做了百花争艳中最美的那一朵。他，六界最富有的风流仙君，举止轻浮，放荡不羁。 本只想做个无人管束没有牵绊的闲散神仙，可奈何采中了一朵情花无法自拔。 他，天生沾染魔气，无家可归，人人欺辱。本以为就那么魂归天地，却被她拉回世间，护他走了一遭坎坷人生。 他们，那刻的相遇，只是一眼，便是万年。 最新章节推荐地址：https://m.shuquge.com/s/144740.html" [ref=e113] [cursor=pointer]:
+                  - /url: /book/134.html
+          - generic [ref=e114]:
+            - link "娇女攻略" [ref=e115] [cursor=pointer]:
+              - /url: /book/189.html
+              - img "娇女攻略" [ref=e116]
+            - generic [ref=e117]:
+              - heading "娇女攻略" [level=4] [ref=e118]:
+                - link "娇女攻略" [ref=e119] [cursor=pointer]:
+                  - /url: /book/189.html
+              - paragraph [ref=e120]:
+                - link "作者：作者：花三朵" [ref=e121]:
+                  - /url: javascript:void(0)
+              - paragraph [ref=e122]:
+                - link "未婚夫被嫡妹勾搭上要退婚？后娘嫡妹联手陷害，一朵白莲花一个绿茶婊？ 老爹靠了后娘升官，如今又想靠她？某女弹弹手指：本姑娘一鞭子让你们变浮云！ 拼爹不如拼夫君，装纯不如简单粗暴！（官方群号：264601202敲门砖：任一人物名）……某女：做本郡主的男人，就要上得厅房，入得厨房……某王：我还入得了卧房，暖得了床。 功能强大，欢迎验货~ 最新章节推荐地址：https://m.shuquge.com/s/145634.html" [ref=e123] [cursor=pointer]:
+                  - /url: /book/189.html
+          - generic [ref=e124]:
+            - link "温先生，房租交一下" [ref=e125] [cursor=pointer]:
+              - /url: /book/198.html
+              - img "温先生，房租交一下" [ref=e126]
+            - generic [ref=e127]:
+              - heading "温先生，房租交一下" [level=4] [ref=e128]:
+                - link "温先生，房租交一下" [ref=e129] [cursor=pointer]:
+                  - /url: /book/198.html
+              - paragraph [ref=e130]:
+                - link "作者：作者：叶琬安" [ref=e131]:
+                  - /url: javascript:void(0)
+              - paragraph [ref=e132]:
+                - link "许谂欠了钱，欠了很多钱。那个男人整天在学校门口堵她。为了还钱，只好让男人住进家里。 某天，男人签收了一个包裹。许谂惊恐的看着被拆封的包裹，一时间没想到质问自己的包裹为何被打开了，反倒是心虚的不行。 男人勾唇， “我没想到你还有这种喜好？”许谂淡定道， “我学广告的，这是全国大广赛的参赛题目。”又怕男人不相信还补了一句， “你可以上网查查的。” “哦，那和你买这个有什么关系？”许谂咬牙， “我没见过怎么写？ “现在既然见过，不如再体验体验？” “……”妖孽腹黑一肚子套路痴汉怂男主×表面冷静理智内心妈/卖批超级直女女主。 1v1甜宠，喜欢你情深已久 最新章节推荐地址：https://m.shuquge.com/s/145402.html" [ref=e133] [cursor=pointer]:
+                  - /url: /book/198.html
+          - generic [ref=e134]:
+            - link "八十年代之空间有点田" [ref=e135] [cursor=pointer]:
+              - /url: /book/170.html
+              - img "八十年代之空间有点田" [ref=e136]
+            - generic [ref=e137]:
+              - heading "八十年代之空间有点田" [level=4] [ref=e138]:
+                - link "八十年代之空间有点田" [ref=e139] [cursor=pointer]:
+                  - /url: /book/170.html
+              - paragraph [ref=e140]:
+                - link "作者：作者：列无暇" [ref=e141]:
+                  - /url: javascript:void(0)
+              - paragraph [ref=e142]:
+                - link "秦凝前一世吃了亏，这一世再不软弱， 亲爹使坏她都坑，亲奶奶欺负她都砍。 重生七十年代，没吃没喝不担心，她有空间； 遇上各类极品，斗智斗勇不害怕，她有胆量： 她往致富路上一气狂奔，就想当农村白富美； 只是，撞上一位腹黑的帅哥哥，她有点犯愁。 初见。 帅哥哥一副斯文模样，低声跟她说了一句话。 秦妹子没听清：一个大男人，说话不能大声一点？ 谁知帅哥哥当着所有人面大声喊：老子喜欢你！ 《从前书信慢，车马远，一生只爱一人》篇 帅哥哥：我真的喜欢你。 秦妹子：我也喜欢自己。 “我每天给你写一封信，你就能对我了解多些。” “我看，那样的话，我会对邮递员了解的多些。” “你喜欢什么，告诉我，回头买了给你寄来。” “我喜欢……买地。” “什么地？” “你能走得死心塌地。” “……！” 《唯愿面朝大海，春暖花开》篇 帅哥哥：你的理想是什么？ 秦妹子：混吃等死发大财算不算？ “只是这样？” “这样就好。你呢？” “我的理想是，你。” 《炊烟起了，我在门口等你。我们老了，我在来生等你》篇 帅哥哥：现在的人啊，都不会写信了。 秦妹子：所以呢，你也不写信了？ “我有啊，昨天我给你写信。” “在哪？” “你看你的哔哔机！” 秦妹子拿出刚买的时髦小匣子：“老婆，我爱你。” 最新章节推荐地址：https://m.shuquge.com/s/146546.html" [ref=e143] [cursor=pointer]:
+                  - /url: /book/170.html
+          - generic [ref=e144]:
+            - link "向往之人生如梦" [ref=e145] [cursor=pointer]:
+              - /url: /book/182.html
+              - img "向往之人生如梦" [ref=e146]
+            - generic [ref=e147]:
+              - heading "向往之人生如梦" [level=4] [ref=e148]:
+                - link "向往之人生如梦" [ref=e149] [cursor=pointer]:
+                  - /url: /book/182.html
+              - paragraph [ref=e150]:
+                - link "作者：作者：山林闲人" [ref=e151]:
+                  - /url: javascript:void(0)
+              - paragraph [ref=e152]:
+                - link "娱乐这个圈，转转悠悠仿佛就似一场梦一般！秦昊开始了这个如梦似换的人生梦！ 平行世界，莫要带入现实，谢谢！单女主，生活爽文，不做玄幻，有古武。 读者群:948479917.让我看看有多少人想骂我吧！ 最新章节推荐地址：https://m.shuquge.com/s/146246.html" [ref=e153] [cursor=pointer]:
+                  - /url: /book/182.html
+          - generic [ref=e154]:
+            - link "遇见世界和你" [ref=e155] [cursor=pointer]:
+              - /url: /book/203.html
+              - img "遇见世界和你" [ref=e156]
+            - generic [ref=e157]:
+              - heading "遇见世界和你" [level=4] [ref=e158]:
+                - link "遇见世界和你" [ref=e159] [cursor=pointer]:
+                  - /url: /book/203.html
+              - paragraph [ref=e160]:
+                - link "作者：作者：尘埃里的半糖" [ref=e161]:
+                  - /url: javascript:void(0)
+              - paragraph [ref=e162]:
+                - link "三年前，顾典亲眼看着父亲从楼顶上跳下来，死在自己面前。她迫不得已放弃心爱之人，放弃理想，远走他乡。 三年后，她重新归来，一无所有，孑然一人，却遇见了那道他生命里的光——沈未意。他爱她，信她，尊重她，更帮她重拾梦想。从一个代课老师到知名资深婚礼策划师，顾典往前走的每一步，沈未意都有参与。 她说：“沈未意，我不想要你泛滥的同情，我想要的是相互比肩的婚姻。” 沈未意只说了一个字，好。 她说：“为什么是我？” 沈未意答道：“遇见你之前，我的世界都是乱糟糟的，可是遇见你之后，就好像乌云都有了归宿。” 遇见你，我就遇见了我的世界…… 最新章节推荐地址：https://m.shuquge.com/s/144303.html" [ref=e163] [cursor=pointer]:
+                  - /url: /book/203.html
+      - generic [ref=e164]:
+        - heading "点击榜单" [level=3] [ref=e166]
+        - generic [ref=e167]:
+          - list [ref=e168]:
+            - listitem [ref=e169]:
+              - generic [ref=e170]:
+                - generic [ref=e171]: "1"
+                - link "@@@@@@...." [ref=e172] [cursor=pointer]:
+                  - /url: /book/349.html
+              - generic [ref=e173]:
+                - link "@@@@@@...." [ref=e175] [cursor=pointer]:
+                  - /url: book/349.html
+                  - img "@@@@@@...." [ref=e176]
+                - link "11" [ref=e177] [cursor=pointer]:
+                  - /url: /book/349.html
+            - listitem [ref=e178]:
+              - generic [ref=e179]:
+                - generic [ref=e180]: "2"
+                - link "云上夕轮" [ref=e181] [cursor=pointer]:
+                  - /url: /book/134.html
+            - listitem [ref=e182]:
+              - generic [ref=e183]:
+                - generic [ref=e184]: "3"
+                - link "娇女攻略" [ref=e185] [cursor=pointer]:
+                  - /url: /book/189.html
+            - listitem [ref=e186]:
+              - generic [ref=e187]:
+                - generic [ref=e188]: "4"
+                - link "史上最狂老祖" [ref=e189] [cursor=pointer]:
+                  - /url: /book/133.html
+            - listitem [ref=e190]:
+              - generic [ref=e191]:
+                - generic [ref=e192]: "5"
+                - link "爱是大雾散尽时" [ref=e193] [cursor=pointer]:
+                  - /url: /book/199.html
+            - listitem [ref=e194]:
+              - generic [ref=e195]:
+                - generic [ref=e196]: "6"
+                - link "温先生，房租交一下" [ref=e197] [cursor=pointer]:
+                  - /url: /book/198.html
+            - listitem [ref=e198]:
+              - generic [ref=e199]:
+                - generic [ref=e200]: "7"
+                - link "神医毒妃帅炸了" [ref=e201] [cursor=pointer]:
+                  - /url: /book/171.html
+            - listitem [ref=e202]:
+              - generic [ref=e203]:
+                - generic [ref=e204]: "8"
+                - link "八十年代之空间有点田" [ref=e205] [cursor=pointer]:
+                  - /url: /book/170.html
+            - listitem [ref=e206]:
+              - generic [ref=e207]:
+                - generic [ref=e208]: "9"
+                - link "向往之人生如梦" [ref=e209] [cursor=pointer]:
+                  - /url: /book/182.html
+            - listitem [ref=e210]:
+              - generic [ref=e211]:
+                - generic [ref=e212]: "10"
+                - link "我的123反派生涯" [ref=e213] [cursor=pointer]:
+                  - /url: /book/118.html
+          - link "查看更多>" [ref=e215] [cursor=pointer]:
+            - /url: /book/book_ranking.html
+    - generic [ref=e216]:
+      - generic [ref=e217]:
+        - heading "精品推荐" [level=2] [ref=e219]
+        - generic [ref=e220]:
+          - generic [ref=e221]:
+            - link "开局得到如来舍利" [ref=e222] [cursor=pointer]:
+              - /url: /book/224.html
+              - img "开局得到如来舍利" [ref=e223]
+            - generic [ref=e224]:
+              - heading "开局得到如来舍利" [level=4] [ref=e225]:
+                - link "开局得到如来舍利" [ref=e226] [cursor=pointer]:
+                  - /url: /book/224.html
+              - paragraph [ref=e227]:
+                - link "作者：作者：目子韦" [ref=e228]:
+                  - /url: javascript:void(0)
+              - paragraph [ref=e229]:
+                - link "勘破万法，破劫成仙。(本书不是西游题材，不是开局无敌，也无系统，欢迎阅读。 ) 最新章节推荐地址：https://m.shuquge.com/s/145015.html" [ref=e230] [cursor=pointer]:
+                  - /url: /book/224.html
+          - generic [ref=e231]:
+            - link "农家有只小凤凰" [ref=e232] [cursor=pointer]:
+              - /url: /book/264.html
+              - img "农家有只小凤凰" [ref=e233]
+            - generic [ref=e234]:
+              - heading "农家有只小凤凰" [level=4] [ref=e235]:
+                - link "农家有只小凤凰" [ref=e236] [cursor=pointer]:
+                  - /url: /book/264.html
+              - paragraph [ref=e237]:
+                - link "作者：作者：神医桃花夭夭" [ref=e238]:
+                  - /url: javascript:void(0)
+              - paragraph [ref=e239]:
+                - link "风采凰怎么也没想到，一向疼爱自己的亲叔叔，居然会将自己打下悬崖，穿越到现代农村姑娘王二妮身上，瘦弱、单薄。 这样的女子居然会被继父拿来，抵了赌债。送给了村上有名的三兄弟家里，正被轻薄的风采凰醒了过来，一顿拳打脚踢姑娘我是高手，我怕谁？ 严惩继父，到处伸张正义！看姐虽是古代人，照样可以在现代混的风生水起！ 喂。。。你干嘛？女侠求打包带走滚。。。。女侠我滚到床上等你来哦。 。。。 最新章节推荐地址：https://m.shuquge.com/s/145543.html" [ref=e240] [cursor=pointer]:
+                  - /url: /book/264.html
+          - generic [ref=e241]:
+            - link "某御主的型月事件簿" [ref=e242] [cursor=pointer]:
+              - /url: /book/150.html
+              - img "某御主的型月事件簿" [ref=e243]
+            - generic [ref=e244]:
+              - heading "某御主的型月事件簿" [level=4] [ref=e245]:
+                - link "某御主的型月事件簿" [ref=e246] [cursor=pointer]:
+                  - /url: /book/150.html
+              - paragraph [ref=e247]:
+                - link "作者：作者：不归之乡" [ref=e248]:
+                  - /url: javascript:void(0)
+              - paragraph [ref=e249]:
+                - link "同世界观新书《我在型月当剑豪》，欢迎各位读者大佬移步。重回2003年，面对的不是新生，而是即将毁灭的世界。 人理烧却，魔神横行，未来危在旦夕。赌上御主之名，定要赢下这场史无前例的圣杯战争！ 关键词：fate，fgo，fsn，型月，艾蕾。ps：单女主，无后宫，型月世界观，又名《冥界女神怎么这么可爱》 最新章节推荐地址：https://m.shuquge.com/s/146031.html" [ref=e250] [cursor=pointer]:
+                  - /url: /book/150.html
+          - generic [ref=e251]:
+            - link "这个骑士读大一" [ref=e252] [cursor=pointer]:
+              - /url: /book/142.html
+              - img "这个骑士读大一" [ref=e253]
+            - generic [ref=e254]:
+              - heading "这个骑士读大一" [level=4] [ref=e255]:
+                - link "这个骑士读大一" [ref=e256] [cursor=pointer]:
+                  - /url: /book/142.html
+              - paragraph [ref=e257]:
+                - link "作者：作者：克苏鲁的幻影" [ref=e258]:
+                  - /url: javascript:void(0)
+              - paragraph [ref=e259]:
+                - link "骑士血染圣特伦平原，宫殿焚寂，荣耀随着时光之轮逐渐被忘记。天使再不降临，世间再无骑士，寒穆纪元2000，3000骑士之血干涸，从此凡间再无平静，此战历经七十七日，参战者无一生还，史称圣瓦西特里伦战。 时空的另一端，一个孩子睁开双眼，刺眼的光照入他眼中，重生的骑士等待他的是从未梦见的另一个世界。 仅存的圣瓦西特里伦骑士啊，你是否一息尚存。 最新章节推荐地址：https://m.shuquge.com/s/145088.html" [ref=e260] [cursor=pointer]:
+                  - /url: /book/142.html
+          - generic [ref=e261]:
+            - link "他太太才是真大佬" [ref=e262] [cursor=pointer]:
+              - /url: /book/214.html
+              - img "他太太才是真大佬" [ref=e263]
+            - generic [ref=e264]:
+              - heading "他太太才是真大佬" [level=4] [ref=e265]:
+                - link "他太太才是真大佬" [ref=e266] [cursor=pointer]:
+                  - /url: /book/214.html
+              - paragraph [ref=e267]:
+                - link "作者：作者：笑倾一世" [ref=e268]:
+                  - /url: javascript:void(0)
+              - paragraph [ref=e269]:
+                - link "【女强爽文&女主帅男主苏】 母亲去世，父亲另娶，唐千缈被安排住进“陌生男人”的家里。 从此便被这一家子捧着宠。 热情伯母：“缈缈别见外，从今以后我就是你妈，这儿就是你家！” 温柔伯父：“缈缈，放下放下，女孩子做什么饭，让你弦哥哥去做。” 暖心小弟：“姐，卷子我帮你写，你就安心打游戏去吧。” 封弦对家人这副嘴脸嗤之以鼻，并警告小姑娘：“离我远点。” 不久后，却画风突变—— 千缈深夜归来，被某男人堵在楼梯间质问：“刚才送你回来的男人是谁？嗯？” 她莞尔一笑：“你吃醋啊？” 男人心神被她的笑晃乱，心跳加速。 自此，一向冷静自持的封先生便迷失在一个小丫头的笑里。 小丫头不招爹疼，从小养在乡野间，无权无势容易自卑，他得小心护着疼着，任何人都不能欺负她！ 可奇怪的是，每次不等他出手，这小妮子就能自如地解决。 某日，下属战战兢兢地来报告他—— “爷，财富榜上，千缈小姐的排名在您……之上！” 封先生低头扫过那些资料，眼色逐渐深沉。 原来他家小妮子除了是一名学生，还有这么多身份！ 那些身份随便抓一个出来，都足以让人目瞪口呆！ …… 众人只知嘲讽唐千缈配不上封先生，却不知，封先生每天都在努力提升自己，争取赶上他家小妮子的步伐。 最新章节推荐地址：https://m.shuquge.com/s/146257.html" [ref=e270] [cursor=pointer]:
+                  - /url: /book/214.html
+          - generic [ref=e271]:
+            - link "邪魅皇帝追冷妻" [ref=e272] [cursor=pointer]:
+              - /url: /book/220.html
+              - img "邪魅皇帝追冷妻" [ref=e273]
+            - generic [ref=e274]:
+              - heading "邪魅皇帝追冷妻" [level=4] [ref=e275]:
+                - link "邪魅皇帝追冷妻" [ref=e276] [cursor=pointer]:
+                  - /url: /book/220.html
+              - paragraph [ref=e277]:
+                - link "作者：作者：稀饭乞丐" [ref=e278]:
+                  - /url: javascript:void(0)
+              - paragraph [ref=e279]:
+                - link "那一年他遇到她，如春水映梨花， 她的容颜，他记得，直至一生难忘， 他倾尽天下，自别人手中夺回他， 他许她一世繁华，恋她一生牵挂， 他不懂，她要的，她不要，他给的， 直到天下尽乱，硝烟纷飞的战场， 他的眼神温暖却绝望，缓缓倒在，她前来的路上， 为她，他付出生命做代价，只为与她生死相随； 为他，她辗转天下，只为与他再续前缘。 他说，天下和你我尽想要，如若只能二选一，倾尽天下只为你。 他说，这么多年，风没一刻放弃，即使背弃天下，我也不会背弃我的清儿。 我是大姐系列一邪魅皇帝追冷妻隆重登场，饭饭们敬请期待我是大姐系列二的爱情故事吧！ （本文原名一生一世一双人，讲的就是一生一世一双人的爱情故事， 最新章节推荐地址：https://m.shuquge.com/s/146534.html" [ref=e280] [cursor=pointer]:
+                  - /url: /book/220.html
+      - generic [ref=e281]:
+        - heading "新书榜单" [level=3] [ref=e283]
+        - generic [ref=e284]:
+          - list [ref=e285]:
+            - listitem [ref=e286]:
+              - generic [ref=e287]:
+                - generic [ref=e288]: "1"
+                - link "紫外线" [ref=e289] [cursor=pointer]:
+                  - /url: /book/4992.html
+              - generic [ref=e290]:
+                - link "紫外线" [ref=e292] [cursor=pointer]:
+                  - /url: book/4992.html
+                  - img "紫外线" [ref=e293]
+                - link "1" [ref=e294] [cursor=pointer]:
+                  - /url: /book/4992.html
+            - listitem [ref=e295]:
+              - generic [ref=e296]:
+                - generic [ref=e297]: "2"
+                - link "hello，我是女神5555" [ref=e298] [cursor=pointer]:
+                  - /url: /book/1060.html
+            - listitem [ref=e299]:
+              - generic [ref=e300]:
+                - generic [ref=e301]: "3"
+                - link "阿莞" [ref=e302] [cursor=pointer]:
+                  - /url: /book/238.html
+            - listitem [ref=e303]:
+              - generic [ref=e304]:
+                - generic [ref=e305]: "4"
+                - link "一颗糖" [ref=e306] [cursor=pointer]:
+                  - /url: /book/2671.html
+            - listitem [ref=e307]:
+              - generic [ref=e308]:
+                - generic [ref=e309]: "5"
+                - link "来了啊" [ref=e310] [cursor=pointer]:
+                  - /url: /book/1245.html
+            - listitem [ref=e311]:
+              - generic [ref=e312]:
+                - generic [ref=e313]: "6"
+                - link "爱是大雾散尽时" [ref=e314] [cursor=pointer]:
+                  - /url: /book/199.html
+            - listitem [ref=e315]:
+              - generic [ref=e316]:
+                - generic [ref=e317]: "7"
+                - link "hhl2025-01-19" [ref=e318] [cursor=pointer]:
+                  - /url: /book/3349.html
+            - listitem [ref=e319]:
+              - generic [ref=e320]:
+                - generic [ref=e321]: "8"
+                - link "木槿28号" [ref=e322] [cursor=pointer]:
+                  - /url: /book/634.html
+            - listitem [ref=e323]:
+              - generic [ref=e324]:
+                - generic [ref=e325]: "9"
+                - link "会员不是个人人员" [ref=e326] [cursor=pointer]:
+                  - /url: /book/559.html
+            - listitem [ref=e327]:
+              - generic [ref=e328]:
+                - generic [ref=e329]: "10"
+                - link "斗气化马" [ref=e330] [cursor=pointer]:
+                  - /url: /book/1090.html
+          - link "查看更多>" [ref=e332] [cursor=pointer]:
+            - /url: /book/book_ranking.html?type=1
+    - generic [ref=e333]:
+      - generic [ref=e334]:
+        - heading "最新更新" [level=2] [ref=e336]
+        - table [ref=e338]:
+          - rowgroup [ref=e339]:
+            - row "类别 书名 最新章节 作者 更新时间" [ref=e340]:
+              - cell "类别" [ref=e341]
+              - cell "书名" [ref=e342]
+              - cell "最新章节" [ref=e343]
+              - cell "作者" [ref=e344]
+              - cell "更新时间" [ref=e345]
+          - rowgroup [ref=e346]:
+            - row "[都市言情] 绝命毒师 d simon 10/22 16:19" [ref=e347]:
+              - cell "[都市言情]" [ref=e348]:
+                - link "[都市言情]" [ref=e349] [cursor=pointer]:
+                  - /url: book/bookclass.html?c=3
+              - cell "绝命毒师" [ref=e350]:
+                - link "绝命毒师" [ref=e351] [cursor=pointer]:
+                  - /url: /book/2836.html
+              - cell "d" [ref=e352]:
+                - link "d" [ref=e353] [cursor=pointer]:
+                  - /url: /book/2836.html
+              - cell "simon" [ref=e354]:
+                - link "simon" [ref=e355]:
+                  - /url: javascript:void(0)
+              - cell "10/22 16:19" [ref=e356]
+            - row "[玄幻奇幻] 男频小说1 第1章 yaoyao 10/21 23:04" [ref=e357]:
+              - cell "[玄幻奇幻]" [ref=e358]:
+                - link "[玄幻奇幻]" [ref=e359] [cursor=pointer]:
+                  - /url: book/bookclass.html?c=1
+              - cell "男频小说1" [ref=e360]:
+                - link "男频小说1" [ref=e361] [cursor=pointer]:
+                  - /url: /book/5181.html
+              - cell "第1章" [ref=e362]:
+                - link "第1章" [ref=e363] [cursor=pointer]:
+                  - /url: /book/5181.html
+              - cell "yaoyao" [ref=e364]:
+                - link "yaoyao" [ref=e365]:
+                  - /url: javascript:void(0)
+              - cell "10/21 23:04" [ref=e366]
+            - row "[玄幻奇幻] 下雨天 第一节 dream 10/17 13:49" [ref=e367]:
+              - cell "[玄幻奇幻]" [ref=e368]:
+                - link "[玄幻奇幻]" [ref=e369] [cursor=pointer]:
+                  - /url: book/bookclass.html?c=1
+              - cell "下雨天" [ref=e370]:
+                - link "下雨天" [ref=e371] [cursor=pointer]:
+                  - /url: /book/5169.html
+              - cell "第一节" [ref=e372]:
+                - link "第一节" [ref=e373] [cursor=pointer]:
+                  - /url: /book/5169.html
+              - cell "dream" [ref=e374]:
+                - link "dream" [ref=e375]:
+                  - /url: javascript:void(0)
+              - cell "10/17 13:49" [ref=e376]
+            - row "[科幻灵异] 三峰打猎很棒 删除章节测试 simon 10/15 19:08" [ref=e377]:
+              - cell "[科幻灵异]" [ref=e378]:
+                - link "[科幻灵异]" [ref=e379] [cursor=pointer]:
+                  - /url: book/bookclass.html?c=5
+              - cell "三峰打猎很棒" [ref=e380]:
+                - link "三峰打猎很棒" [ref=e381] [cursor=pointer]:
+                  - /url: /book/896.html
+              - cell "删除章节测试" [ref=e382]:
+                - link "删除章节测试" [ref=e383] [cursor=pointer]:
+                  - /url: /book/896.html
+              - cell "simon" [ref=e384]:
+                - link "simon" [ref=e385]:
+                  - /url: javascript:void(0)
+              - cell "10/15 19:08" [ref=e386]
+            - row "[玄幻奇幻] 强强强强 风风光光和 查无此人 10/15 18:00" [ref=e387]:
+              - cell "[玄幻奇幻]" [ref=e388]:
+                - link "[玄幻奇幻]" [ref=e389] [cursor=pointer]:
+                  - /url: book/bookclass.html?c=1
+              - cell "强强强强" [ref=e390]:
+                - link "强强强强" [ref=e391] [cursor=pointer]:
+                  - /url: /book/5166.html
+              - cell "风风光光和" [ref=e392]:
+                - link "风风光光和" [ref=e393] [cursor=pointer]:
+                  - /url: /book/5166.html
+              - cell "查无此人" [ref=e394]:
+                - link "查无此人" [ref=e395]:
+                  - /url: javascript:void(0)
+              - cell "10/15 18:00" [ref=e396]
+            - row "[科幻灵异] 吞噬星空 章节名-1760195492 阳仔 10/11 23:11" [ref=e397]:
+              - cell "[科幻灵异]" [ref=e398]:
+                - link "[科幻灵异]" [ref=e399] [cursor=pointer]:
+                  - /url: book/bookclass.html?c=5
+              - cell "吞噬星空" [ref=e400]:
+                - link "吞噬星空" [ref=e401] [cursor=pointer]:
+                  - /url: /book/3301.html
+              - cell "章节名-1760195492" [ref=e402]:
+                - link "章节名-1760195492" [ref=e403] [cursor=pointer]:
+                  - /url: /book/3301.html
+              - cell "阳仔" [ref=e404]:
+                - link "阳仔" [ref=e405]:
+                  - /url: javascript:void(0)
+              - cell "10/11 23:11" [ref=e406]
+            - row "[玄幻奇幻] 神秘世界 意外出现 SevenT 10/11 17:19" [ref=e407]:
+              - cell "[玄幻奇幻]" [ref=e408]:
+                - link "[玄幻奇幻]" [ref=e409] [cursor=pointer]:
+                  - /url: book/bookclass.html?c=1
+              - cell "神秘世界" [ref=e410]:
+                - link "神秘世界" [ref=e411] [cursor=pointer]:
+                  - /url: /book/5163.html
+              - cell "意外出现" [ref=e412]:
+                - link "意外出现" [ref=e413] [cursor=pointer]:
+                  - /url: /book/5163.html
+              - cell "SevenT" [ref=e414]:
+                - link "SevenT" [ref=e415]:
+                  - /url: javascript:void(0)
+              - cell "10/11 17:19" [ref=e416]
+            - row "[科幻灵异] 又入江湖2 刘备来了 登华西 09/30 12:02" [ref=e417]:
+              - cell "[科幻灵异]" [ref=e418]:
+                - link "[科幻灵异]" [ref=e419] [cursor=pointer]:
+                  - /url: book/bookclass.html?c=5
+              - cell "又入江湖2" [ref=e420]:
+                - link "又入江湖2" [ref=e421] [cursor=pointer]:
+                  - /url: /book/5096.html
+              - cell "刘备来了" [ref=e422]:
+                - link "刘备来了" [ref=e423] [cursor=pointer]:
+                  - /url: /book/5096.html
+              - cell "登华西" [ref=e424]:
+                - link "登华西" [ref=e425]:
+                  - /url: javascript:void(0)
+              - cell "09/30 12:02" [ref=e426]
+            - row "[历史军事] 你是我的倾城时光biu 2323 testSu 09/30 08:59" [ref=e427]:
+              - cell "[历史军事]" [ref=e428]:
+                - link "[历史军事]" [ref=e429] [cursor=pointer]:
+                  - /url: book/bookclass.html?c=4
+              - cell "你是我的倾城时光biu" [ref=e430]:
+                - link "你是我的倾城时光biu" [ref=e431] [cursor=pointer]:
+                  - /url: /book/5086.html
+              - cell "2323" [ref=e432]:
+                - link "2323" [ref=e433] [cursor=pointer]:
+                  - /url: /book/5086.html
+              - cell "testSu" [ref=e434]:
+                - link "testSu" [ref=e435]:
+                  - /url: javascript:void(0)
+              - cell "09/30 08:59" [ref=e436]
+            - row "[玄幻奇幻] 重生之变成一棵树 第一章 派大星 09/23 11:54" [ref=e437]:
+              - cell "[玄幻奇幻]" [ref=e438]:
+                - link "[玄幻奇幻]" [ref=e439] [cursor=pointer]:
+                  - /url: book/bookclass.html?c=1
+              - cell "重生之变成一棵树" [ref=e440]:
+                - link "重生之变成一棵树" [ref=e441] [cursor=pointer]:
+                  - /url: /book/5082.html
+              - cell "第一章" [ref=e442]:
+                - link "第一章" [ref=e443] [cursor=pointer]:
+                  - /url: /book/5082.html
+              - cell "派大星" [ref=e444]:
+                - link "派大星" [ref=e445]:
+                  - /url: javascript:void(0)
+              - cell "09/23 11:54" [ref=e446]
+            - 'row "[玄幻奇幻] @# @ # 崔瑞瑞123 09/19 21:40" [ref=e447]':
+              - cell "[玄幻奇幻]" [ref=e448]:
+                - link "[玄幻奇幻]" [ref=e449] [cursor=pointer]:
+                  - /url: book/bookclass.html?c=1
+              - cell "@#" [ref=e450]:
+                - link "@#" [ref=e451] [cursor=pointer]:
+                  - /url: /book/5075.html
+              - 'cell "@ #" [ref=e452]':
+                - 'link "@ #" [ref=e453] [cursor=pointer]':
+                  - /url: /book/5075.html
+              - cell "崔瑞瑞123" [ref=e454]:
+                - link "崔瑞瑞123" [ref=e455]:
+                  - /url: javascript:void(0)
+              - cell "09/19 21:40" [ref=e456]
+            - row "[都市言情] 何以笙箫默 第一章 重逢(4) Nikki 09/12 21:23" [ref=e457]:
+              - cell "[都市言情]" [ref=e458]:
+                - link "[都市言情]" [ref=e459] [cursor=pointer]:
+                  - /url: book/bookclass.html?c=3
+              - cell "何以笙箫默" [ref=e460]:
+                - link "何以笙箫默" [ref=e461] [cursor=pointer]:
+                  - /url: /book/5066.html
+              - cell "第一章 重逢(4)" [ref=e462]:
+                - link "第一章 重逢(4)" [ref=e463] [cursor=pointer]:
+                  - /url: /book/5066.html
+              - cell "Nikki" [ref=e464]:
+                - link "Nikki" [ref=e465]:
+                  - /url: javascript:void(0)
+              - cell "09/12 21:23" [ref=e466]
+            - row "[都市言情] 天空 应该会更好 simon 09/11 11:28" [ref=e467]:
+              - cell "[都市言情]" [ref=e468]:
+                - link "[都市言情]" [ref=e469] [cursor=pointer]:
+                  - /url: book/bookclass.html?c=3
+              - cell "天空" [ref=e470]:
+                - link "天空" [ref=e471] [cursor=pointer]:
+                  - /url: /book/1003.html
+              - cell "应该会更好" [ref=e472]:
+                - link "应该会更好" [ref=e473] [cursor=pointer]:
+                  - /url: /book/1003.html
+              - cell "simon" [ref=e474]:
+                - link "simon" [ref=e475]:
+                  - /url: javascript:void(0)
+              - cell "09/11 11:28" [ref=e476]
+            - row "[玄幻奇幻] vivi的小说12345 章节名-1757430705.0003998 VIVI 09/09 23:11" [ref=e477]:
+              - cell "[玄幻奇幻]" [ref=e478]:
+                - link "[玄幻奇幻]" [ref=e479] [cursor=pointer]:
+                  - /url: book/bookclass.html?c=1
+              - cell "vivi的小说12345" [ref=e480]:
+                - link "vivi的小说12345" [ref=e481] [cursor=pointer]:
+                  - /url: /book/5017.html
+              - cell "章节名-1757430705.0003998" [ref=e482]:
+                - link "章节名-1757430705.0003998" [ref=e483] [cursor=pointer]:
+                  - /url: /book/5017.html
+              - cell "VIVI" [ref=e484]:
+                - link "VIVI" [ref=e485]:
+                  - /url: javascript:void(0)
+              - cell "09/09 23:11" [ref=e486]
+            - row "[玄幻奇幻] 退下，让朕来 第一张 发配 花颜策 09/09 14:12" [ref=e487]:
+              - cell "[玄幻奇幻]" [ref=e488]:
+                - link "[玄幻奇幻]" [ref=e489] [cursor=pointer]:
+                  - /url: book/bookclass.html?c=1
+              - cell "退下，让朕来" [ref=e490]:
+                - link "退下，让朕来" [ref=e491] [cursor=pointer]:
+                  - /url: /book/5041.html
+              - cell "第一张 发配" [ref=e492]:
+                - link "第一张 发配" [ref=e493] [cursor=pointer]:
+                  - /url: /book/5041.html
+              - cell "花颜策" [ref=e494]:
+                - link "花颜策" [ref=e495]:
+                  - /url: javascript:void(0)
+              - cell "09/09 14:12" [ref=e496]
+            - row "[玄幻奇幻] 小仙女2 你好大兄弟 柚一 09/08 16:02" [ref=e497]:
+              - cell "[玄幻奇幻]" [ref=e498]:
+                - link "[玄幻奇幻]" [ref=e499] [cursor=pointer]:
+                  - /url: book/bookclass.html?c=1
+              - cell "小仙女2" [ref=e500]:
+                - link "小仙女2" [ref=e501] [cursor=pointer]:
+                  - /url: /book/3101.html
+              - cell "你好大兄弟" [ref=e502]:
+                - link "你好大兄弟" [ref=e503] [cursor=pointer]:
+                  - /url: /book/3101.html
+              - cell "柚一" [ref=e504]:
+                - link "柚一" [ref=e505]:
+                  - /url: javascript:void(0)
+              - cell "09/08 16:02" [ref=e506]
+            - row "[玄幻奇幻] 天下第一 第二章 宸橙 09/04 21:51" [ref=e507]:
+              - cell "[玄幻奇幻]" [ref=e508]:
+                - link "[玄幻奇幻]" [ref=e509] [cursor=pointer]:
+                  - /url: book/bookclass.html?c=1
+              - cell "天下第一" [ref=e510]:
+                - link "天下第一" [ref=e511] [cursor=pointer]:
+                  - /url: /book/5019.html
+              - cell "第二章" [ref=e512]:
+                - link "第二章" [ref=e513] [cursor=pointer]:
+                  - /url: /book/5019.html
+              - cell "宸橙" [ref=e514]:
+                - link "宸橙" [ref=e515]:
+                  - /url: javascript:void(0)
+              - cell "09/04 21:51" [ref=e516]
+            - row "[玄幻奇幻] 盖世神医 新章节免费-2025-09-04-175137 文森 09/04 17:51" [ref=e517]:
+              - cell "[玄幻奇幻]" [ref=e518]:
+                - link "[玄幻奇幻]" [ref=e519] [cursor=pointer]:
+                  - /url: book/bookclass.html?c=1
+              - cell "盖世神医" [ref=e520]:
+                - link "盖世神医" [ref=e521] [cursor=pointer]:
+                  - /url: /book/2420.html
+              - cell "新章节免费-2025-09-04-175137" [ref=e522]:
+                - link "新章节免费-2025-09-04-175137" [ref=e523] [cursor=pointer]:
+                  - /url: /book/2420.html
+              - cell "文森" [ref=e524]:
+                - link "文森" [ref=e525]:
+                  - /url: javascript:void(0)
+              - cell "09/04 17:51" [ref=e526]
+            - row "[玄幻奇幻] 爱是大雾散尽时2 一个标题是我 simon 08/29 09:40" [ref=e527]:
+              - cell "[玄幻奇幻]" [ref=e528]:
+                - link "[玄幻奇幻]" [ref=e529] [cursor=pointer]:
+                  - /url: book/bookclass.html?c=1
+              - cell "爱是大雾散尽时2" [ref=e530]:
+                - link "爱是大雾散尽时2" [ref=e531] [cursor=pointer]:
+                  - /url: /book/424.html
+              - cell "一个标题是我" [ref=e532]:
+                - link "一个标题是我" [ref=e533] [cursor=pointer]:
+                  - /url: /book/424.html
+              - cell "simon" [ref=e534]:
+                - link "simon" [ref=e535]:
+                  - /url: javascript:void(0)
+              - cell "08/29 09:40" [ref=e536]
+            - row "[玄幻奇幻] 紫外线 2 以须 08/28 16:55" [ref=e537]:
+              - cell "[玄幻奇幻]" [ref=e538]:
+                - link "[玄幻奇幻]" [ref=e539] [cursor=pointer]:
+                  - /url: book/bookclass.html?c=1
+              - cell "紫外线" [ref=e540]:
+                - link "紫外线" [ref=e541] [cursor=pointer]:
+                  - /url: /book/4992.html
+              - cell "2" [ref=e542]:
+                - link "2" [ref=e543] [cursor=pointer]:
+                  - /url: /book/4992.html
+              - cell "以须" [ref=e544]:
+                - link "以须" [ref=e545]:
+                  - /url: javascript:void(0)
+              - cell "08/28 16:55" [ref=e546]
+            - row "[玄幻奇幻] 重生后我选择躺平 第1章 退婚风波 飞猪 08/27 20:45" [ref=e547]:
+              - cell "[玄幻奇幻]" [ref=e548]:
+                - link "[玄幻奇幻]" [ref=e549] [cursor=pointer]:
+                  - /url: book/bookclass.html?c=1
+              - cell "重生后我选择躺平" [ref=e550]:
+                - link "重生后我选择躺平" [ref=e551] [cursor=pointer]:
+                  - /url: /book/4991.html
+              - cell "第1章 退婚风波" [ref=e552]:
+                - link "第1章 退婚风波" [ref=e553] [cursor=pointer]:
+                  - /url: /book/4991.html
+              - cell "飞猪" [ref=e554]:
+                - link "飞猪" [ref=e555]:
+                  - /url: javascript:void(0)
+              - cell "08/27 20:45" [ref=e556]
+            - row "[玄幻奇幻] 重生后我不装了 02章 莫欺少年穷 飞猪 08/27 20:11" [ref=e557]:
+              - cell "[玄幻奇幻]" [ref=e558]:
+                - link "[玄幻奇幻]" [ref=e559] [cursor=pointer]:
+                  - /url: book/bookclass.html?c=1
+              - cell "重生后我不装了" [ref=e560]:
+                - link "重生后我不装了" [ref=e561] [cursor=pointer]:
+                  - /url: /book/4990.html
+              - cell "02章 莫欺少年穷" [ref=e562]:
+                - link "02章 莫欺少年穷" [ref=e563] [cursor=pointer]:
+                  - /url: /book/4990.html
+              - cell "飞猪" [ref=e564]:
+                - link "飞猪" [ref=e565]:
+                  - /url: javascript:void(0)
+              - cell "08/27 20:11" [ref=e566]
+            - row "[都市言情] oi 001 erm 08/27 14:13" [ref=e567]:
+              - cell "[都市言情]" [ref=e568]:
+                - link "[都市言情]" [ref=e569] [cursor=pointer]:
+                  - /url: book/bookclass.html?c=3
+              - cell "oi" [ref=e570]:
+                - link "oi" [ref=e571] [cursor=pointer]:
+                  - /url: /book/4989.html
+              - cell "001" [ref=e572]:
+                - link "001" [ref=e573] [cursor=pointer]:
+                  - /url: /book/4989.html
+              - cell "erm" [ref=e574]:
+                - link "erm" [ref=e575]:
+                  - /url: javascript:void(0)
+              - cell "08/27 14:13" [ref=e576]
+      - generic [ref=e577]:
+        - heading "更新榜单" [level=3] [ref=e579]
+        - generic [ref=e580]:
+          - list [ref=e581]:
+            - listitem [ref=e582]:
+              - generic [ref=e583]:
+                - generic [ref=e584]: "1"
+                - link "绝命毒师" [ref=e585] [cursor=pointer]:
+                  - /url: /book/2836.html
+              - generic [ref=e586]:
+                - link "绝命毒师" [ref=e588] [cursor=pointer]:
+                  - /url: book/2836.html
+                  - img "绝命毒师" [ref=e589]
+                - link "他喵的！ 谁那么大胆，竟然敢打扰本姑奶奶休息！ 叶云衣一朝穿越，居然在刑房里醒来，眼前充满杀气的男人居然是自己的老公？ “滚！臭男人！” “你是在欲擒故纵吗”" [ref=e590] [cursor=pointer]:
+                  - /url: /book/2836.html
+            - listitem [ref=e591]:
+              - generic [ref=e592]:
+                - generic [ref=e593]: "2"
+                - link "男频小说1" [ref=e594] [cursor=pointer]:
+                  - /url: /book/5181.html
+            - listitem [ref=e595]:
+              - generic [ref=e596]:
+                - generic [ref=e597]: "3"
+                - link "下雨天" [ref=e598] [cursor=pointer]:
+                  - /url: /book/5169.html
+            - listitem [ref=e599]:
+              - generic [ref=e600]:
+                - generic [ref=e601]: "4"
+                - link "三峰打猎很棒" [ref=e602] [cursor=pointer]:
+                  - /url: /book/896.html
+            - listitem [ref=e603]:
+              - generic [ref=e604]:
+                - generic [ref=e605]: "5"
+                - link "强强强强" [ref=e606] [cursor=pointer]:
+                  - /url: /book/5166.html
+            - listitem [ref=e607]:
+              - generic [ref=e608]:
+                - generic [ref=e609]: "6"
+                - link "吞噬星空" [ref=e610] [cursor=pointer]:
+                  - /url: /book/3301.html
+            - listitem [ref=e611]:
+              - generic [ref=e612]:
+                - generic [ref=e613]: "7"
+                - link "神秘世界" [ref=e614] [cursor=pointer]:
+                  - /url: /book/5163.html
+            - listitem [ref=e615]:
+              - generic [ref=e616]:
+                - generic [ref=e617]: "8"
+                - link "又入江湖2" [ref=e618] [cursor=pointer]:
+                  - /url: /book/5096.html
+            - listitem [ref=e619]:
+              - generic [ref=e620]:
+                - generic [ref=e621]: "9"
+                - link "你是我的倾城时光biu" [ref=e622] [cursor=pointer]:
+                  - /url: /book/5086.html
+            - listitem [ref=e623]:
+              - generic [ref=e624]:
+                - generic [ref=e625]: "10"
+                - link "重生之变成一棵树" [ref=e626] [cursor=pointer]:
+                  - /url: /book/5082.html
+          - link "查看更多>" [ref=e628] [cursor=pointer]:
+            - /url: /book/book_ranking.html?type=2
+  - generic [ref=e630]:
+    - text: 友情链接：
+    - link "百度" [ref=e631] [cursor=pointer]:
+      - /url: http://www.baidu.com
+  - list [ref=e635]:
+    - listitem [ref=e636]:
+      - link "手机站" [ref=e637] [cursor=pointer]:
+        - /url: /?to=mobile
+      - generic [ref=e638]: "|"
+      - link "网站首页" [ref=e639] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e640]: "|"
+      - link "关于我们" [ref=e641] [cursor=pointer]:
+        - /url: /about/default.html
+      - generic [ref=e642]: "|"
+      - link "联系我们" [ref=e643] [cursor=pointer]:
+        - /url: /about/contact.html
+      - generic [ref=e644]: "|"
+      - link "反馈留言" [ref=e645] [cursor=pointer]:
+        - /url: /user/feedback.html
+      - generic [ref=e646]: "|"
+      - link "作家专区" [ref=e647] [cursor=pointer]:
+        - /url: /author/index.html
+      - generic [ref=e648]: "|"
+      - link "客户端" [ref=e649] [cursor=pointer]:
+        - /url: /mobile/fiction_house.apk
+    - listitem [ref=e650]: Copyright (C) xxx.yy.cc All rights reserved 读书屋版权所有
+```

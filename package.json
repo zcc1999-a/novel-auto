@@ -1,0 +1,20 @@
+{
+  "name": "my-pw-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "report:single": "npx allure.cmd generate --clean --output output/report-single output/allure-single && npx allure.cmd open output/report-single"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^24.8.1",
+    "allure-commandline": "^2.25.0",
+    "allure-playwright": "^3.4.1",
+    "js-yaml": "^4.1.0"
+  }
+}

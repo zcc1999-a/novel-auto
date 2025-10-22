@@ -1,0 +1,9 @@
+# data/books.yml
+- { book: '娇女攻略', expect_chapter: '第一章 迷香' }
+#- { book: '遇见世界和你', expect_chapter: '第一章 重归' }
+#- { book: '神医毒妃帅炸了', expect_chapter: '001 紧跟潮流的穿越' }
+#- { book: '向往之人生如梦', expect_chapter: '第一章 人生如梦' }
+#- { book: '云上夕轮', expect_chapter: '第一章 天帝令' }
+
+
+#zcc@1999
